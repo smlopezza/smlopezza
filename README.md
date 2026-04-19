@@ -2,7 +2,11 @@
 
 **Senior Data Scientist | Bridge Builder | Women in Tech Advocate**
 
-Senior Data Scientist with hands-on expertise in machine learning, cloud platforms, Model Operations, and data products development, building solutions that drive operational efficiency, enhance decision-making, and go from prototype to production. Currently **Senior Manager, Risk Technology, GRM at Scotiabank**, with a $12B credit risk portfolio and a PhD in Engineering from Western University.
+I am a **Senior Manager in Risk Technology at Scotiabank**, where I have delivered impactful solutions within cloud migration and data-driven decision making initiatives, and built credit risk models across a $12B portfolio. My expertise spans retail credit risk modelling, Python, GCP, MLOps, and data strategy. Recently, I have been experimenting with Generative AI to explore new ways of delivering insights and enhancing decision-making.
+ 
+I am also a passionate community builder. As City Lead for Women in AI Canada (London & Southwestern Ontario), I create spaces where ambition and belonging thrive. 
+
+Additionally, I hold a PhD in Chemical Engineering at Western University with a strong focus on Mathematical Modelling and Machine Learning applications.
 
 🌍 London, Ontario, Canada &nbsp;|&nbsp; 🌐 [slopezza.com](https://www.slopezza.com) &nbsp;|&nbsp; ✉️ slopezza@outlook.com
 
