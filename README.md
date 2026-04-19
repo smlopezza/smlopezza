@@ -2,7 +2,7 @@
 
 **Senior Data Scientist | Bridge Builder | Women in Tech Advocate**
 
-Senior Data Scientist with hands-on hands-on expertise in machine learning, cloud platforms, Model Operations, and data products development, building solutions that drive operational efficiency, enhance decision-making, and go from prototype to production. Currently **Risk Technology Senior Manager at Scotiabank GRM**, with a $12B credit risk portfolio and a PhD in Engineering from Western University.
+Senior Data Scientist with hands-on expertise in machine learning, cloud platforms, Model Operations, and data products development, building solutions that drive operational efficiency, enhance decision-making, and go from prototype to production. Currently **Risk Technology Senior Manager at Scotiabank GRM**, with a $12B credit risk portfolio and a PhD in Engineering from Western University.
 
 🌍 London, Ontario, Canada &nbsp;|&nbsp; 🌐 [slopezza.com](https://www.slopezza.com) &nbsp;|&nbsp; ✉️ slopezza@outlook.com
 
