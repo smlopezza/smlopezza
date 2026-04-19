@@ -10,7 +10,7 @@ Additionally, I hold a PhD in Chemical Engineering at Western University with a 
 
 🌍 London, Ontario, Canada &nbsp;|&nbsp; 🌐 [slopezza.com](https://www.slopezza.com) &nbsp;|&nbsp; ✉️ slopezza@outlook.com
 
-🗣️ **Languages:** English · Spanish · French
+🗣️ **Languages:** English · Spanish
 
 ---
 
