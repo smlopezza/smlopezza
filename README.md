@@ -16,7 +16,7 @@ Additionally, I hold a PhD in Chemical Engineering at Western University with a 
 
 ## 🧠 About Me
 
-- 🏦 **5+ years at Scotiabank GRM** — credit risk modelling, MLOps, cloud migration, and data strategy across a $12B portfolio
+- 🏦 **5+ years at Scotiabank GRM** — credit risk modelling ($12B portfolio), MLOps, cloud migration, and data strategy
 - 🤖 Building **production-ready Agentic AI & LLM systems** — multi-agent orchestration, RAG pipelines, and GenAI applications
 - 📊 Skilled at translating complex technical concepts into **actionable business insights** and aligning cross-functional stakeholders
 - 🎓 **PhD in Engineering** (Western University) — applied ML, statistics, and mathematical modelling
