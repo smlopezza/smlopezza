@@ -1,8 +1,8 @@
 # Hi there! I'm Sandra 👋
 
-**Senior Data Scientist | Bridge Builder | Women in Tech Advocate**
+**Senior AI/ML Engineer | Bridge Builder | Women in Tech Advocate**
 
-I am a **Senior Manager in Risk Technology at Scotiabank**, where I have delivered impactful solutions within cloud migration and data-driven decision making initiatives, and built credit risk models across a $12B portfolio. My expertise spans retail credit risk modelling, Python, GCP, MLOps, and data strategy. Recently, I have been experimenting with Generative AI to explore new ways of delivering insights and enhancing decision-making.
+I am a **Senior Manager in Risk Technology at Scotiabank**, where I have delivered impactful solutions within cloud migration and data-driven decision making initiatives, and built credit risk models across a $12B portfolio. My expertise spans production-grade Agentic AI systems, Python, GCP, MLOps, and data strategy. I design and ship AI products end-to-end — from system prompt to Cloud Run deployment.
  
 I am also a passionate community builder. As City Lead for Women in AI Canada (London & Southwestern Ontario), I create spaces where ambition and belonging thrive. 
 
@@ -29,16 +29,16 @@ Additionally, I hold a PhD in Chemical Engineering at Western University with a 
 ## 🛠️ My Toolkit
 
 **Programming Languages & Libraries**
-`Python` `SQL` `SAS` `R` `PHP` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Flask`
+`Python` `SQL` `SAS` `R` `PHP` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Flask` `FastAPI` 
 
 **Statistics, ML & Modelling**
 `Regression` `Classification` `Decision Trees` `ANN` `Keras` `Segmentation` `Scorecards` `Model Monitoring` `A/B Testing` `Multivariate Experiments` `Experimental Design` `Response Surface Methodology` `Optimization`
 
 **Generative AI & Agentic Systems**
-`Gemini API` `Google ADK` `LLMs` `RAG (Retrieval-Augmented Generation)` `Multi-Agent Orchestration` `Prompt Engineering` 
+`Claude API (Anthropic)` `Gemini API` `Google ADK` `LLMs` `RAG (Retrieval-Augmented Generation)` `Multi-Agent Orchestration` `Prompt Engineering` `LLM-as-Judge`
 
 **MLOps & Model Lifecycle**
-`MLOps` `REST API Deployment` `OpenFaaS` `CI/CD` `Model Versioning` `Model Monitoring`
+`MLOps` `REST API Deployment` `OpenFaaS` `CI/CD` `Model Versioning` `Model Monitoring` `Langfuse`
 
 **Cloud & Data Engineering**
 `GCP` `BigQuery` `Vertex AI` `Airflow (Composer)` `GCP Cloud Run` `DBT` `AWS EC2`
@@ -47,11 +47,15 @@ Additionally, I hold a PhD in Chemical Engineering at Western University with a 
 `Credit Risk Modelling` `Data Strategy` `Cloud Migration` `Product Analytics` `Mathematical Modelling`
 
 **Other Tools**
-`Git` `FastAPI` `Dash` `HTML/CSS` `jQuery` `MATLAB` `Statgraphics`
+`Git` `Dash` `HTML/CSS` `jQuery` `MATLAB` `Statgraphics` `Twilio` `Firestore`
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🤝 [SofIA — Tu aliada en Canadá](https://github.com/smlopezza/sofia-canada)
+Production bilingual AI companion (English/Spanish) for Latino newcomers to Canada navigating their job transition. SofIA coaches users through professional conversations over WhatsApp, tracks their contact network and progress milestones, and connects them with volunteer mentors — all without an app to install. Includes LLM-as-judge evaluation pipeline with Langfuse observability. Built during the [Aggregate Intellect AI Engineering Buildcamp](https://sherpa-b.ai.science/).
+`Claude API (Anthropic)` `FastAPI` `Twilio` `Firestore` `GCP Cloud Run` `LLM-as-Judge` `Langfuse`
 
 ### 🍳 [CookFlow AI Agent](https://www.slopezza.com/portfolio_CookFlow_Agent_v2)
 Production-ready multi-agent AI kitchen assistant that plans meals from available ingredients, eliminates food waste, and delivers a personalized cooking plan from a single conversation. Built as part of the Aggregate Intellect Agentic AI Bootcamp.
