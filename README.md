@@ -1,6 +1,6 @@
 # Hi there! I'm Sandra 👋
 
-**Senior AI/ML Engineer | Bridge Builder | Women in Tech Advocate**
+**Senior AI/ML Engineer | Bridge Builder | Women in AI/Tech Advocate**
 
 I am a **Senior Manager in Risk Technology at Scotiabank**, where I have delivered impactful solutions within cloud migration and data-driven decision making initiatives, and built credit risk models across a $12B portfolio. My expertise spans production-grade Agentic AI systems, Python, GCP, MLOps, and data strategy. I design and ship AI products end-to-end — from system prompt to Cloud Run deployment.
  
