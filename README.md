@@ -53,12 +53,12 @@ Additionally, I hold a PhD in Chemical Engineering at Western University with a 
 
 ## 🚀 Featured Projects
 
-### 🤝 [SofIA — Tu aliada en Canadá](https://github.com/smlopezza/sofia-canada)
-Production bilingual AI companion (English/Spanish) for Latino newcomers to Canada navigating their job transition. SofIA coaches users through professional conversations over WhatsApp, tracks their contact network and progress milestones, and connects them with volunteer mentors — all without an app to install. Includes LLM-as-judge evaluation pipeline with Langfuse observability. Built during the [Aggregate Intellect AI Engineering Buildcamp](https://sherpa-b.ai.science/).
+### 🤝 [SofIA — Tu aliada en Canadá](https://github.com/smlopezza/sofia-canada) &nbsp;·&nbsp; [🌐 Live](https://sofia-qhgvxxwh5q-nn.a.run.app/)
+Live bilingual AI companion (English/Spanish) for Latino newcomers to Canada navigating their job transition. SofIA coaches users through professional conversations over WhatsApp, tracks their contact network and progress milestones, and connects them with volunteer mentors — all without an app to install. Includes LLM-as-judge evaluation pipeline with Langfuse observability. Built during the [Aggregate Intellect AI Engineering Buildcamp](https://sherpa-b.ai.science/).
 `Claude API (Anthropic)` `FastAPI` `Twilio` `Firestore` `GCP Cloud Run` `LLM-as-Judge` `Langfuse`
 
-### 🍳 [CookFlow AI Agent](https://www.slopezza.com/portfolio_CookFlow_Agent_v2)
-Production-ready multi-agent AI kitchen assistant that plans meals from available ingredients, eliminates food waste, and delivers a personalized cooking plan from a single conversation. Built as part of the Aggregate Intellect Agentic AI Bootcamp.
+### 🍳 [CookFlow AI Agent](https://www.slopezza.com/portfolio_CookFlow_Agent_v2) &nbsp;·&nbsp; [🌐 Live](https://personal-cookflow-ai-agent-594161647696.us-central1.run.app/)
+Multi-agent AI kitchen assistant that plans meals from available ingredients, eliminates food waste, and delivers a personalized cooking plan from a single conversation. Built as part of the [Aggregate Intellect AI Engineering Buildcamp](https://sherpa-b.ai.science/).
 `Gemini API` `Google ADK` `Python` `FastAPI` `GCP Cloud Run` `Firestore`
 
 ### 🏦 Scotiabank 3DM AI Agent Hackathon — *3rd Place*
